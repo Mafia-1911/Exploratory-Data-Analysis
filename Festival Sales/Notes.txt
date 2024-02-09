@@ -1,0 +1,2 @@
+The major concepts are barplot , countplot for visualization 
+and For cleaning Null - 
